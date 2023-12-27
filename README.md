@@ -1,4 +1,5 @@
-# 
+## Skills 
+**Programming Languages**: Python (NumPy, SciPy, pandas, matplotlib, seaborn, PyMC3, TensorFlow, Dask), R (ggplot2, tidyverse, gee, lme4), Git/GitHub, Unix/Shell, C/C++, SQL, Stata, Matlab, Minitab
 
 ## Education
 - M.A., Statistics | University of California, Berkeley (*In Progress*)
