@@ -2,8 +2,8 @@
 **Programming Languages**: Python (NumPy, SciPy, pandas, matplotlib, seaborn, PyMC3, TensorFlow, Dask), R (ggplot2, tidyverse, gee, lme4), Git/GitHub, Unix/Shell, C/C++, SQL, Stata, Matlab, Minitab
 
 ## Education
-- M.A., Statistics | University of California, Berkeley (*In Progress*)
-- B.S., Comp. Applied Math & Statistics | William & Mary (*December 2022*)
+M.A., Statistics | University of California, Berkeley (*In Progress*)
+B.S., Comp. Applied Math & Statistics | William & Mary (*December 2022*)
 
 ## Projects
 ### [Genetic Algorithm For Variable Selection](https://github.com/seanzhou1207/Genetic-Algorithm/blob/main/Report/final_report.pdf)
