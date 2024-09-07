@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/IMG_5283.JPG"
+  avatar           : "/images/circle_selfie.png"
   name             : "Sean (Xiaoyu Zhou)"
   pronouns         : # example: "he/him"  
   bio              : "Statistician, music lover, and jiu-jitsu whitebelt"

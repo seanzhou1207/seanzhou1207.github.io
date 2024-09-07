@@ -13,9 +13,9 @@ I first came to the U.S. at the age of 15 and eventually became an immigrant whe
 In my free time, I like to play music (guitar and keyboard), practice brazilian jiu-jitsu, and snowboard (when it's cold enough). 
 
 ## Education 📖
-M.A., Statistics | **University of California, Berkeley** (*May 2024*)
+M.A., Statistics | **University of California, Berkeley** | (*May 2024*)
 
-B.S., Comp. Applied Math & Statistics | **William & Mary** (*December 2022*)
+B.S., Comp. Applied Math & Statistics | **William & Mary** | (*December 2022*)
 
 ## Skills 🔧
 ======

@@ -1,6 +1,6 @@
 ---
-title: "What Did They Really Ask in Earning Calls? "
-excerpt: "Decoding Analyst Questions from Earnings Calls with NLP <br/><img src='/images/feature_cog.png'>"
+title: "What Do Analysts Really Ask About in Earning Calls? "
+excerpt: "Decoding analyst questions from earnings calls with NLP <br/><img src='/images/feature_cog.png'>"
 collection: portfolio
 ---
 - Designed an annotation guideline for evaluating the complexity and depth of inquiries from financial analysts in public earning calls
