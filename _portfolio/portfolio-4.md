@@ -1,6 +1,6 @@
 ---
 title: "How Effective are the Right-to-Carry Laws in Deterring Robbery?"
-excerpt: "Unveiling the Effects of Right-to-Carry Laws Through Advanced Bayesian Analysis <br/><img src='/images/robbery.png'>"
+excerpt: "Unveiling the effects of right-to-carry laws through advanced bayesian analysis <br/><img src='/images/robbery.png'>"
 collection: portfolio
 ---
 - Visualized crime data on 50 U.S. states from 1970 to 2018 to discover state heterogeneities in U.S. robbery rate

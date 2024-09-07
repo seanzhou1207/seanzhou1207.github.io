@@ -1,6 +1,6 @@
 ---
 title: "Building a Statapult Firing Table Using Experimental Design"
-excerpt: "modeling a statapult's firing range using a factorial design <br/><img src='/images/statapult.jpeg'>"
+excerpt: "Modeling a statapult's firing range using a factorial design <br/><img src='/images/statapult.jpeg'>"
 collection: portfolio
 ---
 - Explored the impact of four variables (pull back angle, release angle, eye hook position, and tension arm position) on statapult firing range using a $2_{IV}^{4-1}$ fractional factorial design
