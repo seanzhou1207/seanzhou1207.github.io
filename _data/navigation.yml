@@ -16,11 +16,11 @@ main:
   - title: "CV"
     url: /files/Resume_XiaoyuZhou.pdf
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Portfolio"
-    url: /year-archive/
+    url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   # - title: "Guide"
   #  url: /markdown/

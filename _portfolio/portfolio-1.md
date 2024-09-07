@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "What Did They Really Ask in Earning Calls? "
+excerpt: "Decoding Analyst Questions from Earnings Calls with NLP <br/><img src='/images/feature_cog.png'>"
 collection: portfolio
 ---
+- Designed an annotation guideline for evaluating the complexity and depth of inquiries from financial analysts in public earning calls
+- Completed/cross-validated annotations of 500 earning call questions, categorizing them into 4 cognitive levels
+- Constructed an Ordinal Regression model using Bag of Words, sentiment/syntactic features and LLM-based embeddings
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Full Project can be found here:](https://github.com/seanzhou1207/CogDepthQ)
+
