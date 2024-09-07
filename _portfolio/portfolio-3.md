@@ -1,6 +1,6 @@
 ---
 title: "gavs: Genetic Algorithm for Variable Selection"
-excerpt: "a Python package employing genetic algorithms for enhanced variable selection in regression and GLM models <br/><img src='/images/LASSO_comparison.png'>"
+excerpt: "A Python package employing genetic algorithms for enhanced variable selection in regression and GLM models <br/><img src='/images/LASSO_comparison.png'>"
 collection: portfolio
 ---
 - Developed a Python package employing genetic algorithms for enhanced variable selection in regression and GLM models
