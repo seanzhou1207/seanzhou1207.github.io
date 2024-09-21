@@ -7,5 +7,5 @@ collection: portfolio
 - Used a mixed, unpooled and a hierarchical model to estimate the effect of implementing the shall-issue law on robbery rate
 - All three models show that the passing of the law reduces robbery rates in the long run
 
-[Full Project can be found here:](https://github.com/seanzhou1207/Bayesian-Econometrics/blob/main/Shall_5.ipynb)
+[Full Project here:](https://github.com/seanzhou1207/Bayesian-Econometrics/blob/main/Shall_5.ipynb)
 
